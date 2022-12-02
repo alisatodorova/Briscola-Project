@@ -1,0 +1,81 @@
+TOP: 1, BOTTOM: 1, Cheating: 0
+Games played: 200000
+TOP won: 81125   -> 40.5625
+BOTTOM won: 115720   -> 57.86
+Draws: 3155   -> 1.5775
+
+
+
+
+TOP: 1, BOTTOM: 2, Cheating: 0
+Games played: 200000
+TOP won: 60006   -> 30.003
+BOTTOM won: 136919   -> 68.4595
+Draws: 3075   -> 1.5375
+
+
+
+
+TOP: 1, BOTTOM: 3, Cheating: 0
+Games played: 200000
+TOP won: 75893   -> 37.9465
+BOTTOM won: 120967   -> 60.4835
+Draws: 3140   -> 1.57
+
+
+
+
+TOP: 2, BOTTOM: 1, Cheating: 0
+Games played: 200000
+TOP won: 105275   -> 52.6375
+BOTTOM won: 91099   -> 45.5495
+Draws: 3626   -> 1.813
+
+
+
+
+TOP: 2, BOTTOM: 2, Cheating: 0
+Games played: 200000
+TOP won: 78969   -> 39.4845
+BOTTOM won: 117467   -> 58.7335
+Draws: 3564   -> 1.782
+
+
+
+
+TOP: 2, BOTTOM: 3, Cheating: 0
+Games played: 200000
+TOP won: 113191   -> 56.5955
+BOTTOM won: 83387   -> 41.6935
+Draws: 3422   -> 1.711
+
+
+
+
+TOP: 3, BOTTOM: 1, Cheating: 0
+Games played: 200000
+TOP won: 93654   -> 46.827
+BOTTOM won: 103102   -> 51.551
+Draws: 3244   -> 1.622
+
+
+
+
+TOP: 3, BOTTOM: 2, Cheating: 0
+Games played: 200000
+TOP won: 60724   -> 30.362
+BOTTOM won: 136244   -> 68.122
+Draws: 3032   -> 1.516
+
+
+
+
+TOP: 3, BOTTOM: 3, Cheating: 0
+Games played: 200000
+TOP won: 86847   -> 43.4235
+BOTTOM won: 110141   -> 55.0705
+Draws: 3012   -> 1.506
+
+
+
+

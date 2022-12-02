@@ -1,0 +1,8 @@
+TOP: 7, BOTTOM: 1, Cheating: 0
+Games played: 100000
+TOP won: 72407   -> 72.407
+BOTTOM won: 26007   -> 26.007
+Draws: 1586   -> 1.586
+Points Top: 7169002 AVG TOP:71.69002
+Points Bottom: 4830998 AVG BOTTOM:48.30998
+

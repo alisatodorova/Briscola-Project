@@ -1,0 +1,866 @@
+diffBottom:6, diffTop: 6
+TOP: 6, BOTTOM: 6, Cheating: 0
+Games played: 10000
+TOP won: 3956      -> 39.56
+BOTTOM won: 5829   -> 58.29
+Draws: 215         ->  2.15
+Points Top: 558059 AVG TOP:55.8059
+Points Bottom: 641941 AVG BOTTOM:64.1941
+
+diffBottom:5, diffTop: 6, Cheat: 0
+TOP: 6, BOTTOM: 5, Cheating: 0
+Games played: 10000
+TOP won: 3771      -> 37.71
+BOTTOM won: 6020   -> 60.2
+Draws: 209         ->  2.09
+Points Top: 549626 AVG TOP:54.9626
+Points Bottom: 650374 AVG BOTTOM:65.0374
+
+diffBottom:5, diffTop: 6, Cheat: 1
+TOP: 6, BOTTOM: 5, Cheating: 1
+Games played: 10000
+TOP won: 3528      -> 35.28
+BOTTOM won: 6268   -> 62.68
+Draws: 204          -> 2.04
+Points Top: 537476 AVG TOP:53.7476
+Points Bottom: 662524 AVG BOTTOM:66.2524
+
+diffBottom:5, diffTop: 6, Cheat: 2
+TOP: 6, BOTTOM: 5, Cheating: 2
+Games played: 10000
+TOP won: 3070      -> 30.7
+BOTTOM won: 6731   -> 67.31
+Draws: 199          -> 1.99
+Points Top: 517404 AVG TOP:51.7404
+Points Bottom: 682596 AVG BOTTOM:68.2596
+
+diffBottom:5, diffTop: 6, Cheat: 3
+TOP: 6, BOTTOM: 5, Cheating: 3
+Games played: 10000
+TOP won: 2865      -> 28.65
+BOTTOM won: 6946   -> 69.46
+Draws: 189          -> 1.89
+Points Top: 506926 AVG TOP:50.6926
+Points Bottom: 693074 AVG BOTTOM:69.3074
+
+diffBottom:4, diffTop: 6, Cheat: 0
+TOP: 6, BOTTOM: 4, Cheating: 0
+Games played: 10000
+TOP won: 2723      -> 27.23
+BOTTOM won: 7097   -> 70.97
+Draws: 180          -> 1.8
+Points Top: 502881 AVG TOP:50.2881
+Points Bottom: 697119 AVG BOTTOM:69.7119
+
+diffBottom:4, diffTop: 6, Cheat: 1
+TOP: 6, BOTTOM: 4, Cheating: 1
+Games played: 10000
+TOP won: 2407      -> 24.07
+BOTTOM won: 7399   -> 73.99
+Draws: 194          -> 1.94
+Points Top: 488341 AVG TOP:48.8341
+Points Bottom: 711659 AVG BOTTOM:71.1659
+
+diffBottom:4, diffTop: 6, Cheat: 2
+TOP: 6, BOTTOM: 4, Cheating: 2
+Games played: 10000
+TOP won: 2336      -> 23.36
+BOTTOM won: 7481   -> 74.81
+Draws: 183          -> 1.83
+Points Top: 480082 AVG TOP:48.0082
+Points Bottom: 719918 AVG BOTTOM:71.9918
+
+diffBottom:4, diffTop: 6, Cheat: 3
+TOP: 6, BOTTOM: 4, Cheating: 3
+Games played: 10000
+TOP won: 2593      -> 25.93
+BOTTOM won: 7225   -> 72.25
+Draws: 182          -> 1.82
+Points Top: 492367 AVG TOP:49.2367
+Points Bottom: 707633 AVG BOTTOM:70.7633
+
+diffBottom:3, diffTop: 6
+TOP: 6, BOTTOM: 3, Cheating: 3
+Games played: 10000
+TOP won: 6761      -> 67.61
+BOTTOM won: 3063   -> 30.63
+Draws: 176          -> 1.76
+Points Top: 694532 AVG TOP:69.4532
+Points Bottom: 505468 AVG BOTTOM:50.5468
+
+diffBottom:2, diffTop: 6
+TOP: 6, BOTTOM: 2, Cheating: 3
+Games played: 10000
+TOP won: 5696      -> 56.96
+BOTTOM won: 4118   -> 41.18
+Draws: 186          -> 1.86
+Points Top: 636820 AVG TOP:63.682
+Points Bottom: 563180 AVG BOTTOM:56.318
+
+diffBottom:1, diffTop: 6
+TOP: 6, BOTTOM: 1, Cheating: 3
+Games played: 10000
+TOP won: 6863      -> 68.63
+BOTTOM won: 2980   -> 29.8
+Draws: 157          -> 1.57
+Points Top: 698122 AVG TOP:69.8122
+Points Bottom: 501878 AVG BOTTOM:50.1878
+
+diffBottom:6, diffTop: 5, Cheat: 0
+TOP: 5, BOTTOM: 6, Cheating: 0
+Games played: 10000
+TOP won: 3973      -> 39.73
+BOTTOM won: 5822   -> 58.22
+Draws: 205          -> 2.05
+Points Top: 559911 AVG TOP:55.9911
+Points Bottom: 640089 AVG BOTTOM:64.0089
+
+diffBottom:6, diffTop: 5, Cheat: 1
+TOP: 5, BOTTOM: 6, Cheating: 1
+Games played: 10000
+TOP won: 4168      -> 41.68
+BOTTOM won: 5605   -> 56.05
+Draws: 227          -> 2.27
+Points Top: 570171 AVG TOP:57.0171
+Points Bottom: 629829 AVG BOTTOM:62.9829
+
+diffBottom:6, diffTop: 5, Cheat: 2
+TOP: 5, BOTTOM: 6, Cheating: 2
+Games played: 10000
+TOP won: 4742      -> 47.42
+BOTTOM won: 5047   -> 50.47
+Draws: 211          -> 2.11
+Points Top: 589720 AVG TOP:58.972
+Points Bottom: 610280 AVG BOTTOM:61.028
+
+diffBottom:6, diffTop: 5, Cheat: 3
+TOP: 5, BOTTOM: 6, Cheating: 3
+Games played: 10000
+TOP won: 4921      -> 49.21
+BOTTOM won: 4852   -> 48.52
+Draws: 227          -> 2.27
+Points Top: 601364 AVG TOP:60.1364
+Points Bottom: 598636 AVG BOTTOM:59.8636
+
+diffBottom:5, diffTop: 5, Cheat: 0
+TOP: 5, BOTTOM: 5, Cheating: 0
+Games played: 10000
+TOP won: 3855      -> 38.55
+BOTTOM won: 5950   -> 59.5
+Draws: 195          -> 1.95
+Points Top: 551252 AVG TOP:55.1252
+Points Bottom: 648748 AVG BOTTOM:64.8748
+
+diffBottom:5, diffTop: 5, Cheat: 1
+TOP: 5, BOTTOM: 5, Cheating: 1
+Games played: 10000
+TOP won: 3784      -> 37.84
+BOTTOM won: 6024   -> 60.24
+Draws: 192          -> 1.92
+Points Top: 551737 AVG TOP:55.1737
+Points Bottom: 648263 AVG BOTTOM:64.8263
+
+diffBottom:5, diffTop: 5, Cheat: 2
+TOP: 5, BOTTOM: 5, Cheating: 2
+Games played: 10000
+TOP won: 3799      -> 37.99
+BOTTOM won: 5989   -> 59.89
+Draws: 212          -> 2.12
+Points Top: 551206 AVG TOP:55.1206
+Points Bottom: 648794 AVG BOTTOM:64.8794
+
+diffBottom:5, diffTop: 5, Cheat: 3
+TOP: 5, BOTTOM: 5, Cheating: 3
+Games played: 10000
+TOP won: 3888      -> 38.88
+BOTTOM won: 5933   -> 59.33
+Draws: 179          -> 1.79
+Points Top: 553384 AVG TOP:55.3384
+Points Bottom: 646616 AVG BOTTOM:64.6616
+
+diffBottom:4, diffTop: 5, Cheat: 0
+TOP: 5, BOTTOM: 4, Cheating: 0
+Games played: 10000
+TOP won: 2787      -> 27.87
+BOTTOM won: 7007   -> 70.07
+Draws: 206          -> 2.06
+Points Top: 506790 AVG TOP:50.679
+Points Bottom: 693210 AVG BOTTOM:69.321
+
+diffBottom:4, diffTop: 5, Cheat: 1
+TOP: 5, BOTTOM: 4, Cheating: 1
+Games played: 10000
+TOP won: 2800      -> 28.0
+BOTTOM won: 6974   -> 69.74
+Draws: 226          -> 2.26
+Points Top: 507160 AVG TOP:50.716
+Points Bottom: 692840 AVG BOTTOM:69.284
+
+diffBottom:4, diffTop: 5, Cheat: 2
+TOP: 5, BOTTOM: 4, Cheating: 2
+Games played: 10000
+TOP won: 2984      -> 29.84
+BOTTOM won: 6806   -> 68.06
+Draws: 210          -> 2.1
+Points Top: 516504 AVG TOP:51.6504
+Points Bottom: 683496 AVG BOTTOM:68.3496
+
+diffBottom:4, diffTop: 5, Cheat: 3
+<=<==========---> 80% EXECUTING [17m 16s]
+TOP: 5, BOTTOM: 4, Cheating: 3
+Games played: 10000
+TOP won: 3477      -> 34.77
+BOTTOM won: 6313   -> 63.13
+Draws: 210          -> 2.1
+Points Top: 539489 AVG TOP:53.9489
+Points Bottom: 660511 AVG BOTTOM:66.0511
+
+diffBottom:3, diffTop: 5, Cheat: 0
+TOP: 5, BOTTOM: 3, Cheating: 0
+Games played: 10000
+TOP won: 6944      -> 69.44
+BOTTOM won: 2889   -> 28.89
+Draws: 167          -> 1.67
+Points Top: 701808 AVG TOP:70.1808
+Points Bottom: 498192 AVG BOTTOM:49.8192
+
+diffBottom:3, diffTop: 5, Cheat: 1
+TOP: 5, BOTTOM: 3, Cheating: 1
+Games played: 10000
+TOP won: 7093      -> 70.93
+BOTTOM won: 2733   -> 27.33
+Draws: 174          -> 1.74
+Points Top: 710668 AVG TOP:71.0668
+Points Bottom: 489332 AVG BOTTOM:48.9332
+
+diffBottom:3, diffTop: 5, Cheat: 2
+TOP: 5, BOTTOM: 3, Cheating: 2
+Games played: 10000
+TOP won: 7348      -> 73.48
+BOTTOM won: 2497   -> 24.97
+Draws: 155          -> 1.55
+Points Top: 726766 AVG TOP:72.6766
+Points Bottom: 473234 AVG BOTTOM:47.3234
+
+diffBottom:3, diffTop: 5, Cheat: 3
+TOP: 5, BOTTOM: 3, Cheating: 3
+Games played: 10000
+TOP won: 7762      -> 77.62
+BOTTOM won: 2090   -> 20.9
+Draws: 148          -> 1.48
+Points Top: 748440 AVG TOP:74.844
+Points Bottom: 451560 AVG BOTTOM:45.156
+
+diffBottom:2, diffTop: 5, Cheat: 0
+TOP: 5, BOTTOM: 2, Cheating: 0
+Games played: 10000
+TOP won: 5659      -> 56.59
+BOTTOM won: 4159   -> 41.59
+Draws: 182          -> 1.82
+Points Top: 635758 AVG TOP:63.5758
+Points Bottom: 564242 AVG BOTTOM:56.4242
+
+diffBottom:2, diffTop: 5, Cheat: 1
+TOP: 5, BOTTOM: 2, Cheating: 1
+Games played: 10000
+TOP won: 6143      -> 61.43
+BOTTOM won: 3659   -> 36.59
+Draws: 198          -> 1.98
+Points Top: 657562 AVG TOP:65.7562
+Points Bottom: 542438 AVG BOTTOM:54.2438
+
+diffBottom:2, diffTop: 5, Cheat: 2
+TOP: 5, BOTTOM: 2, Cheating: 2
+Games played: 10000
+TOP won: 6678      -> 66.78
+BOTTOM won: 3151   -> 31.51
+Draws: 171          -> 1.71
+Points Top: 680901 AVG TOP:68.0901
+Points Bottom: 519099 AVG BOTTOM:51.9099
+
+diffBottom:2, diffTop: 5, Cheat: 3
+TOP: 5, BOTTOM: 2, Cheating: 3
+Games played: 10000
+TOP won: 7035      -> 70.35
+BOTTOM won: 2802   -> 28.02
+Draws: 163          -> 1.63
+Points Top: 701014 AVG TOP:70.1014
+Points Bottom: 498986 AVG BOTTOM:49.8986
+
+diffBottom:1, diffTop: 5, Cheat: 0
+TOP: 5, BOTTOM: 1, Cheating: 0
+Games played: 10000
+TOP won: 6978      -> 69.78
+BOTTOM won: 2890   -> 28.9
+Draws: 132          -> 1.32
+Points Top: 703199 AVG TOP:70.3199
+Points Bottom: 496801 AVG BOTTOM:49.6801
+
+diffBottom:1, diffTop: 5, Cheat: 1
+TOP: 5, BOTTOM: 1, Cheating: 1
+Games played: 10000
+TOP won: 7199      -> 71.99
+BOTTOM won: 2634   -> 26.34
+Draws: 167          -> 1.67
+Points Top: 715545 AVG TOP:71.5545
+Points Bottom: 484455 AVG BOTTOM:48.4455
+
+diffBottom:1, diffTop: 5, Cheat: 2
+TOP: 5, BOTTOM: 1, Cheating: 2
+Games played: 10000
+TOP won: 7497      -> 74.97
+BOTTOM won: 2345   -> 23.45
+Draws: 158          -> 1.58
+Points Top: 730170 AVG TOP:73.017
+Points Bottom: 469830 AVG BOTTOM:46.983
+
+diffBottom:1, diffTop: 5, Cheat: 3
+TOP: 5, BOTTOM: 1, Cheating: 3
+Games played: 10000
+TOP won: 7584      -> 75.84
+BOTTOM won: 2272   -> 22.72
+Draws: 144          -> 1.44
+Points Top: 737720 AVG TOP:73.772
+Points Bottom: 462280 AVG BOTTOM:46.228
+
+diffBottom:6, diffTop: 4, Cheat: 0
+TOP: 4, BOTTOM: 6, Cheating: 0
+Games played: 10000
+TOP won: 5140      -> 51.4
+BOTTOM won: 4647   -> 46.47
+Draws: 213          -> 2.13
+Points Top: 611537 AVG TOP:61.1537
+Points Bottom: 588463 AVG BOTTOM:58.8463
+
+diffBottom:6, diffTop: 4, Cheat: 1
+TOP: 4, BOTTOM: 6, Cheating: 1
+Games played: 10000
+TOP won: 5499      -> 54.99
+BOTTOM won: 4284   -> 42.84
+Draws: 217          -> 2.17
+Points Top: 625073 AVG TOP:62.5073
+Points Bottom: 574927 AVG BOTTOM:57.4927
+
+diffBottom:6, diffTop: 4, Cheat: 2
+TOP: 4, BOTTOM: 6, Cheating: 2
+Games played: 10000
+TOP won: 5656      -> 56.56
+BOTTOM won: 4114   -> 41.14
+Draws: 230          -> 2.3
+Points Top: 629979 AVG TOP:62.9979
+Points Bottom: 570021 AVG BOTTOM:57.0021
+
+diffBottom:6, diffTop: 4, Cheat: 3
+TOP: 4, BOTTOM: 6, Cheating: 3
+Games played: 10000
+TOP won: 5290      -> 52.9
+BOTTOM won: 4513   -> 45.13
+Draws: 197          -> 1.97
+Points Top: 616014 AVG TOP:61.6014
+Points Bottom: 583986 AVG BOTTOM:58.3986
+
+diffBottom:5, diffTop: 4, Cheat: 0
+TOP: 4, BOTTOM: 5, Cheating: 0
+Games played: 10000
+TOP won: 4892      -> 48.92
+BOTTOM won: 4870   -> 48.7
+Draws: 238          -> 2.38
+Points Top: 601281 AVG TOP:60.1281
+Points Bottom: 598719 AVG BOTTOM:59.8719
+
+diffBottom:5, diffTop: 4, Cheat: 1
+TOP: 4, BOTTOM: 5, Cheating: 1
+Games played: 10000
+TOP won: 4922      -> 49.22
+BOTTOM won: 4857   -> 48.57
+Draws: 221          -> 2.21
+Points Top: 602020 AVG TOP:60.202
+Points Bottom: 597980 AVG BOTTOM:59.798
+
+diffBottom:5, diffTop: 4, Cheat: 2
+TOP: 4, BOTTOM: 5, Cheating: 2
+Games played: 10000
+TOP won: 4615      -> 46.15
+BOTTOM won: 5159   -> 51.59
+Draws: 226          -> 2.26
+Points Top: 587749 AVG TOP:58.7749
+Points Bottom: 612251 AVG BOTTOM:61.2251
+
+diffBottom:5, diffTop: 4, Cheat: 3
+TOP: 4, BOTTOM: 5, Cheating: 3
+Games played: 10000
+TOP won: 4115      -> 41.15
+BOTTOM won: 5646   -> 56.46
+Draws: 239          -> 2.39
+Points Top: 566640 AVG TOP:56.664
+Points Bottom: 633360 AVG BOTTOM:63.336
+
+diffBottom:4, diffTop: 4, Cheat: 0
+TOP: 4, BOTTOM: 4, Cheating: 0
+Games played: 10000
+TOP won: 3804      -> 38.04
+BOTTOM won: 5935   -> 59.35
+Draws: 261          -> 2.61
+Points Top: 555404 AVG TOP:55.5404
+Points Bottom: 644596 AVG BOTTOM:64.4596
+
+diffBottom:4, diffTop: 4, Cheat: 1
+TOP: 4, BOTTOM: 4, Cheating: 1
+Games played: 10000
+TOP won: 3708      -> 37.08
+BOTTOM won: 6065   -> 60.65
+Draws: 227          -> 2.27
+Points Top: 551575 AVG TOP:55.1575
+Points Bottom: 648425 AVG BOTTOM:64.8425
+
+diffBottom:4, diffTop: 4, Cheat: 2
+TOP: 4, BOTTOM: 4, Cheating: 2
+Games played: 10000
+TOP won: 3786      -> 37.86
+BOTTOM won: 5966   -> 59.66
+Draws: 248          -> 2.48
+Points Top: 555295 AVG TOP:55.5295
+Points Bottom: 644705 AVG BOTTOM:64.4705
+
+diffBottom:4, diffTop: 4, Cheat: 3
+TOP: 4, BOTTOM: 4, Cheating: 3
+Games played: 10000
+TOP won: 3819      -> 38.19
+BOTTOM won: 5962   -> 59.62
+Draws: 219          -> 2.19
+Points Top: 555471 AVG TOP:55.5471
+Points Bottom: 644529 AVG BOTTOM:64.4529
+
+diffBottom:3, diffTop: 4, Cheat: 0
+TOP: 4, BOTTOM: 3, Cheating: 0
+Games played: 10000
+TOP won: 7869      -> 78.69
+BOTTOM won: 1972   -> 19.72
+Draws: 159          -> 1.59
+Points Top: 747973 AVG TOP:74.7973
+Points Bottom: 452027 AVG BOTTOM:45.2027
+
+diffBottom:3, diffTop: 4, Cheat: 1
+TOP: 4, BOTTOM: 3, Cheating: 1
+Games played: 10000
+TOP won: 8066      -> 80.66
+BOTTOM won: 1792   -> 17.92
+Draws: 142          -> 1.42
+Points Top: 759717 AVG TOP:75.9717
+Points Bottom: 440283 AVG BOTTOM:44.0283
+
+diffBottom:3, diffTop: 4, Cheat: 2
+TOP: 4, BOTTOM: 3, Cheating: 2
+Games played: 10000
+TOP won: 8020      -> 80.2
+BOTTOM won: 1844   -> 18.44
+Draws: 136          -> 1.36
+Points Top: 762210 AVG TOP:76.221
+Points Bottom: 437790 AVG BOTTOM:43.779
+
+diffBottom:3, diffTop: 4, Cheat: 3
+TOP: 4, BOTTOM: 3, Cheating: 3
+Games played: 10000
+TOP won: 7960      -> 79.6
+BOTTOM won: 1914   -> 19.14
+Draws: 126          -> 1.26
+Points Top: 755573 AVG TOP:75.5573
+Points Bottom: 444427 AVG BOTTOM:44.4427
+
+diffBottom:2, diffTop: 4, Cheat: 0
+TOP: 4, BOTTOM: 2, Cheating: 0
+Games played: 10000
+TOP won: 7024      -> 70.24
+BOTTOM won: 2770   -> 27.7
+Draws: 206          -> 2.06
+Points Top: 697717 AVG TOP:69.7717
+Points Bottom: 502283 AVG BOTTOM:50.2283
+
+diffBottom:2, diffTop: 4, Cheat: 1
+TOP: 4, BOTTOM: 2, Cheating: 1
+Games played: 10000
+TOP won: 7373      -> 73.73
+BOTTOM won: 2445   -> 24.45
+Draws: 182          -> 1.82
+Points Top: 715539 AVG TOP:71.5539
+Points Bottom: 484461 AVG BOTTOM:48.4461
+
+diffBottom:2, diffTop: 4, Cheat: 2
+TOP: 4, BOTTOM: 2, Cheating: 2
+Games played: 10000
+TOP won: 7658      -> 76.58
+BOTTOM won: 2183   -> 21.83
+Draws: 159          -> 1.59
+Points Top: 727889 AVG TOP:72.7889
+Points Bottom: 472111 AVG BOTTOM:47.2111
+
+diffBottom:2, diffTop: 4, Cheat: 3
+TOP: 4, BOTTOM: 2, Cheating: 3
+Games played: 10000
+TOP won: 7324      -> 73.24
+BOTTOM won: 2504   -> 25.04
+Draws: 172          -> 1.72
+Points Top: 712984 AVG TOP:71.2984
+Points Bottom: 487016 AVG BOTTOM:48.7016
+
+diffBottom:1, diffTop: 4, Cheat: 0
+TOP: 4, BOTTOM: 1, Cheating: 0
+Games played: 10000
+TOP won: 7951      -> 79.51
+BOTTOM won: 1924   -> 19.24
+Draws: 125          -> 1.25
+Points Top: 755249 AVG TOP:75.5249
+Points Bottom: 444751 AVG BOTTOM:44.4751
+
+diffBottom:1, diffTop: 4, Cheat: 1
+TOP: 4, BOTTOM: 1, Cheating: 1
+Games played: 10000
+TOP won: 8149      -> 81.49
+BOTTOM won: 1715   -> 17.15
+Draws: 136          -> 1.36
+Points Top: 766894 AVG TOP:76.6894
+Points Bottom: 433106 AVG BOTTOM:43.3106
+
+diffBottom:1, diffTop: 4, Cheat: 2
+TOP: 4, BOTTOM: 1, Cheating: 2
+Games played: 10000
+TOP won: 8159      -> 81.59
+BOTTOM won: 1729   -> 17.29
+Draws: 112          -> 1.12
+Points Top: 765393 AVG TOP:76.5393
+Points Bottom: 434607 AVG BOTTOM:43.4607
+
+diffBottom:1, diffTop: 4, Cheat: 3
+TOP: 4, BOTTOM: 1, Cheating: 3
+Games played: 10000
+TOP won: 7785      -> 77.85
+BOTTOM won: 2066   -> 20.66
+Draws: 149          -> 1.49
+Points Top: 749715 AVG TOP:74.9715
+Points Bottom: 450285 AVG BOTTOM:45.0285
+
+diffBottom:6, diffTop: 3
+TOP: 3, BOTTOM: 6, Cheating: 3
+Games played: 10000
+TOP won: 1753      -> 17.53
+BOTTOM won: 8127   -> 81.27
+Draws: 120          -> 1.2
+Points Top: 421239 AVG TOP:42.1239
+Points Bottom: 778761 AVG BOTTOM:77.8761
+
+diffBottom:5, diffTop: 3, Cheat: 0
+TOP: 3, BOTTOM: 5, Cheating: 0
+Games played: 10000
+TOP won: 1727      -> 17.27
+BOTTOM won: 8168   -> 81.68
+Draws: 105          -> 1.05
+Points Top: 416543 AVG TOP:41.6543
+Points Bottom: 783457 AVG BOTTOM:78.3457
+
+diffBottom:5, diffTop: 3, Cheat: 1
+TOP: 3, BOTTOM: 5, Cheating: 1
+Games played: 10000
+TOP won: 1564      -> 15.64
+BOTTOM won: 8328   -> 83.28
+Draws: 108          -> 1.08
+Points Top: 404181 AVG TOP:40.4181
+Points Bottom: 795819 AVG BOTTOM:79.5819
+
+diffBottom:5, diffTop: 3, Cheat: 2
+TOP: 3, BOTTOM: 5, Cheating: 2
+Games played: 10000
+TOP won: 1461      -> 14.61
+BOTTOM won: 8424   -> 84.24
+Draws: 115          -> 1.15
+Points Top: 394415 AVG TOP:39.4415
+Points Bottom: 805585 AVG BOTTOM:80.5585
+
+diffBottom:5, diffTop: 3, Cheat: 3
+TOP: 3, BOTTOM: 5, Cheating: 3
+Games played: 10000
+TOP won: 1134      -> 11.34
+BOTTOM won: 8777   -> 87.77
+Draws: 89          -> 0.89
+Points Top: 372693 AVG TOP:37.2693
+Points Bottom: 827307 AVG BOTTOM:82.7307
+
+diffBottom:4, diffTop: 3, Cheat: 0
+TOP: 3, BOTTOM: 4, Cheating: 0
+Games played: 10000
+TOP won: 922      -> 9.22
+BOTTOM won: 9007   -> 90.07
+Draws: 71          -> 0.71
+Points Top: 360093 AVG TOP:36.0093
+Points Bottom: 839907 AVG BOTTOM:83.9907
+
+diffBottom:4, diffTop: 3, Cheat: 1
+TOP: 3, BOTTOM: 4, Cheating: 1
+Games played: 10000
+TOP won: 781      -> 7.81
+BOTTOM won: 9161   -> 91.61
+Draws: 58          -> 0.58
+Points Top: 349696 AVG TOP:34.9696
+Points Bottom: 850304 AVG BOTTOM:85.0304
+
+diffBottom:4, diffTop: 3, Cheat: 2
+TOP: 3, BOTTOM: 4, Cheating: 2
+Games played: 10000
+TOP won: 918      -> 9.18
+BOTTOM won: 9004   -> 90.04
+Draws: 78          -> 0.78
+Points Top: 355295 AVG TOP:35.5295
+Points Bottom: 844705 AVG BOTTOM:84.4705
+
+diffBottom:4, diffTop: 3, Cheat: 3
+TOP: 3, BOTTOM: 4, Cheating: 3
+Games played: 10000
+TOP won: 1060      -> 10.6
+BOTTOM won: 8852   -> 88.52
+Draws: 88          -> 0.88
+Points Top: 366906 AVG TOP:36.6906
+Points Bottom: 833094 AVG BOTTOM:83.3094
+
+diffBottom:3, diffTop: 3
+TOP: 3, BOTTOM: 3, Cheating: 3
+Games played: 10000
+TOP won: 4256      -> 42.56
+BOTTOM won: 5560   -> 55.6
+Draws: 184          -> 1.84
+Points Top: 562294 AVG TOP:56.2294
+Points Bottom: 637706 AVG BOTTOM:63.7706
+
+diffBottom:2, diffTop: 3
+TOP: 3, BOTTOM: 2, Cheating: 3
+Games played: 10000
+TOP won: 2957      -> 29.57
+BOTTOM won: 6909   -> 69.09
+Draws: 134          -> 1.34
+Points Top: 490290 AVG TOP:49.029
+Points Bottom: 709710 AVG BOTTOM:70.971
+
+diffBottom:1, diffTop: 3
+TOP: 3, BOTTOM: 1, Cheating: 3
+Games played: 10000
+TOP won: 4666      -> 46.66
+BOTTOM won: 5178   -> 51.78
+Draws: 156          -> 1.56
+Points Top: 585367 AVG TOP:58.5367
+Points Bottom: 614633 AVG BOTTOM:61.4633
+
+diffBottom:6, diffTop: 2
+TOP: 2, BOTTOM: 6, Cheating: 3
+Games played: 10000
+TOP won: 2493      -> 24.93
+BOTTOM won: 7320   -> 73.2
+Draws: 187          -> 1.87
+Points Top: 486029 AVG TOP:48.6029
+Points Bottom: 713971 AVG BOTTOM:71.3971
+
+diffBottom:5, diffTop: 2, Cheat: 0
+TOP: 2, BOTTOM: 5, Cheating: 0
+Games played: 10000
+TOP won: 2444      -> 24.44
+BOTTOM won: 7410   -> 74.1
+Draws: 146          -> 1.46
+Points Top: 478187 AVG TOP:47.8187
+Points Bottom: 721813 AVG BOTTOM:72.1813
+
+diffBottom:5, diffTop: 2, Cheat: 1
+TOP: 2, BOTTOM: 5, Cheating: 1
+Games played: 10000
+TOP won: 2023      -> 20.23
+BOTTOM won: 7819   -> 78.19
+Draws: 158          -> 1.58
+Points Top: 458434 AVG TOP:45.8434
+Points Bottom: 741566 AVG BOTTOM:74.1566
+
+diffBottom:5, diffTop: 2, Cheat: 2
+TOP: 2, BOTTOM: 5, Cheating: 2
+Games played: 10000
+TOP won: 1605      -> 16.05
+BOTTOM won: 8259   -> 82.59
+Draws: 136          -> 1.36
+Points Top: 436609 AVG TOP:43.6609
+Points Bottom: 763391 AVG BOTTOM:76.3391
+
+diffBottom:5, diffTop: 2, Cheat: 3
+TOP: 2, BOTTOM: 5, Cheating: 3
+Games played: 10000
+TOP won: 1275      -> 12.75
+BOTTOM won: 8609   -> 86.09
+Draws: 116          -> 1.16
+Points Top: 412396 AVG TOP:41.2396
+Points Bottom: 787604 AVG BOTTOM:78.7604
+
+diffBottom:4, diffTop: 2, Cheat: 0
+TOP: 2, BOTTOM: 4, Cheating: 0
+Games played: 10000
+TOP won: 1331      -> 13.31
+BOTTOM won: 8550   -> 85.5
+Draws: 119          -> 1.19
+Points Top: 420764 AVG TOP:42.0764
+Points Bottom: 779236 AVG BOTTOM:77.9236
+
+diffBottom:4, diffTop: 2, Cheat: 1
+TOP: 2, BOTTOM: 4, Cheating: 1
+Games played: 10000
+TOP won: 1083      -> 10.83
+BOTTOM won: 8814   -> 88.14
+Draws: 103          -> 1.03
+Points Top: 403235 AVG TOP:40.3235
+Points Bottom: 796765 AVG BOTTOM:79.6765
+
+diffBottom:4, diffTop: 2, Cheat: 2
+TOP: 2, BOTTOM: 4, Cheating: 2
+Games played: 10000
+TOP won: 1031      -> 10.31
+BOTTOM won: 8860   -> 88.6
+Draws: 109          -> 1.09
+Points Top: 398756 AVG TOP:39.8756
+Points Bottom: 801244 AVG BOTTOM:80.1244
+
+diffBottom:4, diffTop: 2, Cheat: 3
+TOP: 2, BOTTOM: 4, Cheating: 3
+Games played: 10000
+TOP won: 1088      -> 10.88
+BOTTOM won: 8812   -> 88.12
+Draws: 100          -> 1.0
+Points Top: 400141 AVG TOP:40.0141
+Points Bottom: 799859 AVG BOTTOM:79.9859
+
+diffBottom:3, diffTop: 2
+TOP: 2, BOTTOM: 3, Cheating: 3
+Games played: 10000
+TOP won: 5764      -> 57.64
+BOTTOM won: 4055   -> 40.55
+Draws: 181          -> 1.81
+Points Top: 641764 AVG TOP:64.1764
+Points Bottom: 558236 AVG BOTTOM:55.8236
+
+diffBottom:2, diffTop: 2
+TOP: 2, BOTTOM: 2, Cheating: 3
+Games played: 10000
+TOP won: 3976      -> 39.76
+BOTTOM won: 5848   -> 58.48
+Draws: 176          -> 1.76
+Points Top: 551208 AVG TOP:55.1208
+Points Bottom: 648792 AVG BOTTOM:64.8792
+
+diffBottom:1, diffTop: 2
+TOP: 2, BOTTOM: 1, Cheating: 3
+Games played: 10000
+TOP won: 5283      -> 52.83
+BOTTOM won: 4540   -> 45.4
+Draws: 177          -> 1.77
+Points Top: 616410 AVG TOP:61.641
+Points Bottom: 583590 AVG BOTTOM:58.359
+
+diffBottom:6, diffTop: 1
+TOP: 1, BOTTOM: 6, Cheating: 3
+Games played: 10000
+TOP won: 1475      -> 14.75
+BOTTOM won: 8420   -> 84.2
+Draws: 105          -> 1.05
+Points Top: 405898 AVG TOP:40.5898
+Points Bottom: 794102 AVG BOTTOM:79.4102
+
+diffBottom:5, diffTop: 1, Cheat: 0
+TOP: 1, BOTTOM: 5, Cheating: 0
+Games played: 10000
+TOP won: 1475      -> 14.75
+BOTTOM won: 8387   -> 83.87
+Draws: 138          -> 1.38
+Points Top: 401931 AVG TOP:40.1931
+Points Bottom: 798069 AVG BOTTOM:79.8069
+
+diffBottom:5, diffTop: 1, Cheat: 1
+TOP: 1, BOTTOM: 5, Cheating: 1
+Games played: 10000
+TOP won: 1315      -> 13.15
+BOTTOM won: 8594   -> 85.94
+Draws: 91          -> 0.91
+Points Top: 391793 AVG TOP:39.1793
+Points Bottom: 808207 AVG BOTTOM:80.8207
+
+diffBottom:5, diffTop: 1, Cheat: 2
+TOP: 1, BOTTOM: 5, Cheating: 2
+Games played: 10000
+TOP won: 1089      -> 10.89
+BOTTOM won: 8809   -> 88.09
+Draws: 102          -> 1.02
+Points Top: 374585 AVG TOP:37.4585
+Points Bottom: 825415 AVG BOTTOM:82.5415
+
+diffBottom:5, diffTop: 1, Cheat: 3
+TOP: 1, BOTTOM: 5, Cheating: 3
+Games played: 10000
+TOP won: 1019      -> 10.19
+BOTTOM won: 8891   -> 88.91
+Draws: 90          -> 0.9
+Points Top: 364406 AVG TOP:36.4406
+Points Bottom: 835594 AVG BOTTOM:83.5594
+
+diffBottom:4, diffTop: 1, Cheat: 0
+TOP: 1, BOTTOM: 4, Cheating: 0
+Games played: 10000
+TOP won: 787      -> 7.87
+BOTTOM won: 9130   -> 91.3
+Draws: 83          -> 0.83
+Points Top: 353510 AVG TOP:35.351
+Points Bottom: 846490 AVG BOTTOM:84.649
+
+diffBottom:4, diffTop: 1, Cheat: 1
+TOP: 1, BOTTOM: 4, Cheating: 1
+Games played: 10000
+TOP won: 696      -> 6.96
+BOTTOM won: 9250   -> 92.5
+Draws: 54          -> 0.54
+Points Top: 339857 AVG TOP:33.9857
+Points Bottom: 860143 AVG BOTTOM:86.0143
+
+diffBottom:4, diffTop: 1, Cheat: 2
+TOP: 1, BOTTOM: 4, Cheating: 2
+Games played: 10000
+TOP won: 708      -> 7.08
+BOTTOM won: 9225   -> 92.25
+Draws: 67          -> 0.67
+Points Top: 338416 AVG TOP:33.8416
+Points Bottom: 861584 AVG BOTTOM:86.1584
+
+diffBottom:4, diffTop: 1, Cheat: 3
+TOP: 1, BOTTOM: 4, Cheating: 3
+Games played: 10000
+TOP won: 855      -> 8.55
+BOTTOM won: 9056   -> 90.56
+Draws: 89          -> 0.89
+Points Top: 356429 AVG TOP:35.6429
+Points Bottom: 843571 AVG BOTTOM:84.3571
+
+diffBottom:3, diffTop: 1
+TOP: 1, BOTTOM: 3, Cheating: 3
+Games played: 10000
+TOP won: 3805      -> 38.05
+BOTTOM won: 6033   -> 60.33
+Draws: 162          -> 1.62
+Points Top: 534778 AVG TOP:53.4778
+Points Bottom: 665222 AVG BOTTOM:66.5222
+
+diffBottom:2, diffTop: 1
+TOP: 1, BOTTOM: 2, Cheating: 3
+Games played: 10000
+TOP won: 3051      -> 30.51
+BOTTOM won: 6797   -> 67.97
+Draws: 152          -> 1.52
+Points Top: 497452 AVG TOP:49.7452
+Points Bottom: 702548 AVG BOTTOM:70.2548
+
+diffBottom:1, diffTop: 1
+TOP: 1, BOTTOM: 1, Cheating: 3
+Games played: 10000
+TOP won: 4046      -> 40.46
+BOTTOM won: 5794   -> 57.94
+Draws: 160          -> 1.6
+Points Top: 548213 AVG TOP:54.8213
+Points Bottom: 651787 AVG BOTTOM:65.1787
+
+Closed
